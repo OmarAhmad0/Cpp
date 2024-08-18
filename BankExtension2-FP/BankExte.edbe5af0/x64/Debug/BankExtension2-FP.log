@@ -1,0 +1,8 @@
+﻿  BankExtension2-FP.cpp
+E:\All-Projects\Back-End\BankExtension2-FP\BankExtension2-FP.cpp(69,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+E:\All-Projects\Back-End\BankExtension2-FP\BankExtension2-FP.cpp(875,1): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+E:\All-Projects\Back-End\BankExtension2-FP\BankExtension2-FP.cpp(997,1): warning C4715: 'UpdateUserByUsername': not all control paths return a value
+E:\All-Projects\Back-End\BankExtension2-FP\BankExtension2-FP.cpp(957,1): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+E:\All-Projects\Back-End\BankExtension2-FP\BankExtension2-FP.cpp(917,1): warning C4715: 'DeleteUserByUsername': not all control paths return a value
+E:\All-Projects\Back-End\BankExtension2-FP\BankExtension2-FP.cpp(1024,1): warning C4715: 'DepositBalanceToClientByAccountNumber': not all control paths return a value
+  BankExtension2-FP.vcxproj -> E:\All-Projects\Back-End\BankExtension2-FP\x64\Debug\BankExtension2-FP.exe
